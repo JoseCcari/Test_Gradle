@@ -1,5 +1,5 @@
 # Test_Gradle
-  Creación automática con gradle
+  ## Creación automática con gradle<br/>
   Primero verificamos que tenemos instalado el jdk de java:
   <pre><code>java -version </code></pre>
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Test_Gradle/blob/main/JAVA-VERSION.PNG)
@@ -13,7 +13,7 @@
   <pre><code>gradle init --project-name myproyect --type basic </code></pre>
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Test_Gradle/blob/main/ini_gradle.PNG)
   
-  # Una visión general de lo que nos construyó la tarea init con el type basic.
+  ## Una visión general de lo que nos construyó la tarea init con el type basic.
 Nos creó dos archivos en la raíz del proyecto con los nombres build.gradle y settings.gradle. Estos archivos son utilizados por Gradle para la configuración de construcción del proyecto.
 
 ### build.gradle:
