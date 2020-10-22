@@ -37,7 +37,7 @@ Un archivo de propiedades responsable de configurar el comportamiento del tiempo
 script para sistemas Windows, almacenado en el directorio raiz del proyecto para ejecutar gradle-wrapper.
 
  Los scripts gradlew y gradlew.bat son los que recomienda gradle ejecutar con las tareas una vez que se inicializó el proyecto.
- ### Creando proyecto java
+ ## Creando proyecto java
  Ahora crearemos nuestro proyecto java con el siguiente comando:
   <pre><code>gradle init --project-name IS --type java-application </code></pre>
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Test_Gradle/blob/main/JAVA_APP.PNG)
