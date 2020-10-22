@@ -42,5 +42,7 @@ script para sistemas Windows, almacenado en el directorio raiz del proyecto para
   <pre><code>gradle init --project-name IS --type java-application </code></pre>
   ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Test_Gradle/blob/main/JAVA_APP.PNG)
   El resultado está en la carpeta probando_gradle.
+  Donde tenemos todo el directorio de archivos:
+  ![texto cualquiera por si no carga la imagen](https://github.com/JoseCcari/Test_Gradle/blob/main/archivos.PNG)
   
   
